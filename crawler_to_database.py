@@ -244,3 +244,4 @@ if __name__ == '__main__':
         data = json.load(f)    # 从json文件中读取数据
         to_mysql(data)
     '''
+#修改
