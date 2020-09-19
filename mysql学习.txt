@@ -1,0 +1,7 @@
+PATH="$PATH":/usr/local/mysql/bin
+mysql -u root -p
+
+show databases;
+use dbtest;
+show tables;
+select * from Student;
